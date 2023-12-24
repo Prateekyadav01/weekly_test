@@ -1,0 +1,3 @@
+equip
+1-ball
+2-ground
